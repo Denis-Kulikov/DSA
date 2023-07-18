@@ -1,0 +1,12 @@
+*.o
+*.a
+*.d
+*.exe
+dsa
+
+!.keep
+!build/CMakeLists.txt
+!build/cmake.sh
+
+bin
+build
